@@ -17,7 +17,7 @@ Finally, I’ll add these new visualizations to the two I created in this module
 - The peak hours that the bikes are used
 
 ## Results
-The original CitiBike csv file had the trip duration taken down by seconds. So, in Python, with the help of Pandas, I added a new column and converted the tripduration to a datetime data type. After this conversion I begin making my visualization in Tableau. The following visuals will be showing the data for August, 2019. 
+The original CitiBike csv file had the trip duration taken down by seconds. So, in Python, with the help of Pandas, I added a new column and converted the tripduration to a datetime data type. After this conversion I began making my visualization in Tableau. The following visuals will be showing the data for August, 2019. 
 
 ### Checkout Times for Users
 ![Checkout_times_for_users](https://user-images.githubusercontent.com/105755095/189006779-41892c69-36ad-4f09-8b25-f5057a318f20.png)
@@ -70,17 +70,24 @@ From these visualizations, it is safe to assume that males are using the bikes m
 I created a dashboard of customer breakdown for the rides. This shares all the information regarding the breakdown of types of customers using the bikes.
 ![Customer_Breakdown_DB](https://user-images.githubusercontent.com/105755095/189010690-bf104fc2-5ca5-4e64-acb1-dc4e49dceed5.png)
 
+
+
 I created another dashboard which contains all the graphs that had inforamtion sharing the peak days and times for rides. 
 ![Peak_Time_Usage_DB](https://user-images.githubusercontent.com/105755095/189011001-046d5549-25a9-4fca-8079-280d9bfbff45.png)
+
+
 
 The last dashboard had all the information brokendown according to gender. 
 ![Usage_By_Gender_DB](https://user-images.githubusercontent.com/105755095/189011108-ea9ccfd6-dfc6-460e-b0d6-f7dce82c6dcc.png)
 
+
+### Future Analysis
 For future analysis, I think it is important to add the following points:
 - Show which age groups are using the bikes as subscribers.
 - Show which age groups are using the bikes during peak times.
 - Show how this data can relate back to Iowa as NYC is a much busier and touristy city than Des Moines
 
+### Links
 I have created a story on tableau sharing this information in a more visually appealing format.
 [NYC CitiBike Story](https://public.tableau.com/authoring/NYC_CitiBike_16625778141000/Sheet1/NYC%20CitiBike#1)
 
