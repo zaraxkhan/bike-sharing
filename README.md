@@ -88,6 +88,6 @@ For future analysis, I think it is important to add the following points:
 - Show how this data can relate back to Iowa as NYC is a much busier and touristy city than Des Moines
 
 ### Links
-I have created a story on tableau sharing this information in a more visually appealing format.
+I have created a story on tableau sharing this information in a more visually appealing format:
 [NYC CitiBike Story](https://public.tableau.com/authoring/NYC_CitiBike_16625778141000/Sheet1/NYC%20CitiBike#1)
 
